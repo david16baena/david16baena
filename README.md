@@ -7,7 +7,7 @@
 
 - 🤓 Currently I'm trying to grasp anything about **topological data analysis.**
 
-- 🤯 Have more questions than answers. Good at listening.
+- 😵 More questions than answers, but good at listening.
 
 - ❔ Ask me about **Econometrics, Time Series, Machine Learning, GCP**
 
