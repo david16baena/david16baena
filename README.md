@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm David Baena</h1>
+<h3 align="center">Data enthusiast that loves math, poetry and music.</h3>
 
-<!--
-**david16baena/david16baena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🇨🇴 Colombian. Formal training in economics and finance. 
 
-Here are some ideas to get you started:
+- 👴 I’m currently working on [Protección](https://www.proteccion.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤓 Currently I'm trying to grasp anything about **topological data analysis.**
+
+- 🤯 Have more questions than answers. Good at listening.
+
+- ❔ Ask me about **Econometrics, Time Series, Machine Learning, GCP**
+
+- 📫 How to reach me **david16baena@gmail.com**
+
+- ⚡ Fun fact: I'm also learning about pastry.
