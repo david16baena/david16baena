@@ -5,7 +5,7 @@
 
 - 👴 I’m currently working at [Protección S.A.](https://www.proteccion.com/)
 
-- 🤓 Currently I'm trying to grasp anything about **topological data analysis.**
+- 🤓 Currently trying to grasp anything about **topological data analysis.**
 
 - 😵 More questions than answers, but good at listening.
 
