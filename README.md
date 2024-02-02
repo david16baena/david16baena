@@ -3,7 +3,7 @@
 
 - 🇨🇴 Colombian. Formal training in economics and finance. 
 
-- 👴 I’m currently working at [Protección S.A.](https://www.proteccion.com/)
+- 👴 I’m currently working at [Globant](https://www.globant.com/)
 
 - 🤓 Currently trying to grasp something about **topological data analysis.**
 
